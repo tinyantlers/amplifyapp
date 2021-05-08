@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "gettingstarted2526c971": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
